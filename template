@@ -7,3 +7,5 @@
 *.log
 *.sql.gz
 /pub/media
+/pub/media*
+/zero1/phpcs
