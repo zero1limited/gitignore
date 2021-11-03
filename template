@@ -10,3 +10,5 @@
 /pub/media*
 /zero1/phpcs
 /app/etc/env*
+/feeds
+/pub/feeds
