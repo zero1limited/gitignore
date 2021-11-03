@@ -9,3 +9,4 @@
 /pub/media
 /pub/media*
 /zero1/phpcs
+/app/etc/env*
