@@ -6,6 +6,7 @@
 *.tgz
 *.log
 *.sql.gz
+".sql
 /pub/media
 /pub/media*
 /zero1/phpcs
