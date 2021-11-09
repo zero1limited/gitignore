@@ -18,3 +18,4 @@
 /setup/src/Magento/Setup/Test
 .editorconfig
 /vendor*
+/pub/.well-known
