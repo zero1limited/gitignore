@@ -13,3 +13,7 @@
 /app/etc/env*
 /feeds
 /pub/feeds
+/pub/sitemap*
+/dev/tests
+/setup/src/Magento/Setup/Test
+.editorconfig
