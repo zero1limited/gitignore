@@ -17,3 +17,4 @@
 /dev/tests
 /setup/src/Magento/Setup/Test
 .editorconfig
+/vendor*
