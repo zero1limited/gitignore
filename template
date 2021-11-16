@@ -19,3 +19,5 @@
 .editorconfig
 /vendor*
 /pub/.well-known
+/generated*
+/pub/static*
