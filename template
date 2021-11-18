@@ -21,3 +21,8 @@
 /pub/.well-known
 /generated*
 /pub/static*
+/setup/performance-toolkit
+/setup/src/Magento/Setup/Fixtures
+/setup/src/Magento/Setup/Test
+/.github
+*.swp
