@@ -26,3 +26,6 @@
 /setup/src/Magento/Setup/Test
 /.github
 *.swp
+
+# static maintenance pages
+!/var/maintenance
